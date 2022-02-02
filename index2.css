@@ -1,0 +1,97 @@
+body{
+  align-self: center;
+   padding: 5% 27%;
+    font-size: 25px;
+
+}
+.bold{
+  font-size: 55px; 
+   background:#fff; 
+   position: relative; 
+   top: -30px;
+}
+.Paris
+{
+  width: 100% ; 
+  height: 10px; 
+  border-bottom: 3px solid black; 
+  text-align: center;
+}
+span.back
+{
+  text-decoration: none;
+  color:rgb(126, 123, 123); 
+  position: relative;
+  top:-130px;
+  left:380px;
+  font-size: 30px;
+}
+span{
+    text-decoration: line-through;
+    color: red;
+}
+span.ttp
+{
+  text-align: center;
+  text-decoration: none;
+}
+.hr{
+  margin: 30px;
+  position: relative;
+  left:40px ;
+}
+span.normal
+{
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  margin-bottom: 50px;
+  
+}
+p.backarrow1
+{
+  position: relative;
+  top:-525px;
+  left: -160px;
+}
+span.material-icons
+{
+  background-color: rgb(224, 63, 63);
+  color: aliceblue;
+  font-size: 30px;
+  position: relative;
+  bottom: -200px;
+  left: 490px;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.box4{ 
+  
+   border: 1px solid rgb(236, 95, 95);
+   height: 300px;
+   width: 300px;
+   margin: 20px;
+   padding: 10px;
+    box-shadow: 5px 5px 5px rgb(218, 213, 213);
+   font-family: sans-serif;
+   color:rgb(241, 72, 72) ;
+   border-radius: 5px;
+   padding-top: 5px;
+   padding-left: 6px;
+   box-sizing: border-box;
+   display: inline-block;
+   box-shadow: 2px;
+   position: relative;
+  justify-content: center;
+  text-align: center;
+  top:80px;
+  left:150px
+  
+  
+}
+.plus1
+{
+  position: relative;
+  left: -410px;
+  bottom: 10px;
+}

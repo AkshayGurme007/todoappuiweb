@@ -1,0 +1,184 @@
+
+.parent2
+{
+    filter: blur(2px);
+  
+}
+.child2
+{
+    height: 550px;
+  width:  890px;
+  position: relative;
+  display: block;
+  top:-590px;
+  right:360px;
+
+}
+
+
+body {
+
+    align-self: center;
+     padding: 5% 27%;
+      font-size: 25px;
+  
+  }
+  .bold{
+    font-size: 55px; 
+     background:#fff; 
+     position: relative; 
+     top: -30px;
+  }
+.flex4
+{
+    border: 1px solid rgb(247, 49, 49);
+    box-shadow: 5px 5px 5px rgb(218, 213, 213);
+   background-color: white;
+   color: red;
+   border-radius: 10px;
+   height: 180px;
+   width: 320px;
+   position: relative;
+   top: 300px;
+   right: -600px
+}
+.flex5
+{
+    border: 1px solid rgb(247, 49, 49);
+    box-shadow: 5px 5px 5px rgb(218, 213, 213);
+    position: absolute;
+    display: inline-block;
+    bottom: 80px;
+    right:60px;
+    height: 30px;
+    width: 220px;
+    border-radius: 9px;
+  
+}
+.flex6
+{
+    background-color: rgb(248, 44, 44);
+    color: white;
+    border: 1px solid rgb(253, 45, 45);
+    display: flex;
+    height: 20px;
+    width: 3px;
+    position: absolute;
+    bottom: 30px;
+    right: 140px;
+    height: 30px;
+    width: 70px;
+    border-radius: 15px;
+}
+.add2
+{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    position: relative;
+    right: -15px;
+    bottom: -5px;
+}
+.ANT
+{
+    color: rgb(252, 73, 73);
+    text-decoration: none;
+    font-style: normal;
+    font-size: 20px;
+    display:inline-flex;
+    position: absolute;
+    left: 100px;
+    bottom: 120px;
+
+}
+.Paris
+      {
+        filter: blur(1px);
+        width: 100% ; 
+        height: 10px; 
+        border-bottom: 3px solid black; 
+        text-align: center;
+      }
+      span.back
+      {
+        text-decoration: none;
+        color:rgb(126, 123, 123); 
+        position: relative;
+        top:-130px;
+        left:380px;
+        font-size: 30px;
+      }
+      span{
+          text-decoration: line-through;
+          color: red;
+      }
+      span.ttp
+      {
+        text-align: center;
+        text-decoration: none;
+      }
+      .hr{
+        margin: 30px;
+        position: relative;
+        left:40px ;
+      }
+      span.normal
+      {
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        margin-bottom: 50px;
+        
+      }
+      p.backarrow1
+      {
+          filter: blur(1px);
+        position: relative;
+        top:-558px;
+        left: -160px;
+      }
+      span.material-icons
+      {
+        background-color: rgb(224, 63, 63);
+        color: aliceblue;
+        font-size: 30px;
+        position: relative;
+        bottom: -200px;
+        left: 490px;
+        text-decoration: none;
+        border-radius: 50%;
+      }
+      .box4{ 
+        
+         border: 1px solid rgb(236, 95, 95);
+         height: 300px;
+         width: 300px;
+         margin: 20px;
+         padding: 10px;
+          box-shadow: 5px 5px 5px rgb(218, 213, 213);
+         font-family: sans-serif;
+         color:rgb(241, 72, 72) ;
+         border-radius: 5px;
+         padding-top: 5px;
+         padding-left: 6px;
+         box-sizing: border-box;
+         display: inline-block;
+         box-shadow: 2px;
+         position: relative;
+        justify-content: center;
+        text-align: center;
+        top:80px;
+        left:150px
+        
+        
+      }
+      .plus1
+      {
+          filter: blur(1px);
+        position: relative;
+        left: -0px;
+        bottom: 180px;
+      }
+
+  
+      
